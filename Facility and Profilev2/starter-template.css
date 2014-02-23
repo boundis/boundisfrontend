@@ -12,3 +12,7 @@ footer {
 .b-results {
 	min-width:160px;
 }
+
+.b-logo {
+	max-height:120px;
+}
